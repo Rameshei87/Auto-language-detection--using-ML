@@ -1,2 +1,2 @@
-# Auto-language-deduction-using-ML
-Auto language deduction using ML
+# Auto-language-detection-using-ML
+Auto language detection using ML
